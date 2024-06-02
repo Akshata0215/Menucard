@@ -1,14 +1,15 @@
 body{
-    height: 800px;
+    height: 720px;
     width: 650px;
     border: solid 2px;
     border-color: black;
-    position: relative;
-    left: 422px;
+    position:absolute;
+    left: 340px;
     background-image: url(images/baground-image.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 650px 800px;
+    background-size: 655px 1460px;
+    background-attachment: fixed;
     
 }
 .heading{
